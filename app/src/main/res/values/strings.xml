@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpaceXApp</string>
+    <string name="api_base_url">https://api.spacexdata.com</string>
+    <string name="db_name">db_spacex</string>
+    <string name="template_engine_count">Engine count: %d</string>
+    <string name="alert_when_internet">No internet connection</string>
+    <string name="title_filter_rockets">Filter rockets</string>
+    <string name="hint_filter_rockets">Filter active rockets...</string>
+    <string name="launch_info_title">Launch Info</string>
+    <string name="label_rocket_description">Description</string>
+    <string name="label_mission_name">Mission Name</string>
+    <string name="label_launch_date">Launch Date</string>
+    <string name="label_status">Status</string>
+    <string name="label_tag_active">Active</string>
+</resources>
